@@ -1,0 +1,74 @@
+{"intents":  [
+    {"tag": "greetings",
+      "patterns":  ["hello", "hey", "hi", "good day", "greetings", "what's up?"],
+       "responses": ["Hello!", "Hey there!", "Bark!", "*Wags Tail"]
+    },
+    {"tag": "introduction",
+      "patterns":  ["Who are you?", "Tell me about yourself", "What is your name?"],
+       "responses": ["I am Squeakers, a dog chatbot, with much love and knowledge for dogs! Why don't you ask me what my favorite dog breed is?"]
+    },
+    {"tag": "noises",
+      "patterns":  ["Bark!", "Howl!", "Growl", "Grrrr", "Pant", "Lick"],
+       "responses": ["Bark!", "Howl!", "Growl...", "Grrrr...", "Pant pant pant", "Lick lick lick", "*rolls over", "SQUIRREL!!!"]
+    },
+    {"tag": "favorite",
+      "patterns":  ["My favorite dog is a corgi", "My favorite breed is the golden retriever", "Shih Tzus are my favorite", "Add Collie to the list of my favorite dogs"],
+       "responses": ["OK, added to your favorites!", "Nice! Personally, corgis are my favorite!"]
+    },
+    {"tag": "view favorites",
+      "patterns":  ["What are my favorite dogs?", "Show me my favorite dogs?", "Let me see my favorite dogs list", "What are my favorites?", "view my favorites", "favorites"],
+       "responses": ["Here is your list of favorite dogs! Woof!", "Your favorites!"]
+    },
+    {"tag": "my favorites",
+      "patterns":  ["What is your favorite dog?", "What are your favorite dogs?", "Which dog breed do you like best?", "Which dog breed is your favorite?", "Tell me your favorite dog breed", "What is your favorite dog breed?"],
+       "responses": ["My favorite dog breed is the Pembroke Welsh Corgi! My creator has one! Check her out on Instagram @lycheenomnomcorgi"]
+    },
+    {"tag": "trick",
+      "patterns":  ["Teach me a trick!", "Let's learn a trick.", "Do you know any tricks?", "I want to learn a trick.", "trick", "learn a trick"],
+       "responses": ["Sit!", "Roll over!", "Shake!", "Paw!", "Dance!", "Puppy eyes!", "Heel!", "Stay!", "High Five!"]
+    },
+    {"tag": "view tricks",
+      "patterns":  ["What tricks have we learned together?", "Show me the tricks I have learned", "Let me see my tricks list", "What tricks do I know?", "View tricks", "Tricks I know"],
+       "responses": ["Woof! Here is your list of tricks we've learned together: "]
+    },
+    {"tag": "breeds searched",
+      "patterns":  ["What breeds have I asked about?", "Show me the breeds I've searched up", "Let me see the list of breeds I've asked about", "What breeds have I searched up?", "Which breeds have I learned about?"],
+       "responses": ["Nibbles on your shoe* Here are the dog breeds you've talked to me about: "]
+    },
+    {"tag": "color",
+      "patterns":  ["What colors are bulldogs?", "What colors do Dutch Shepherds come in?", "What color is?"],
+       "responses": ["Bark! The breed comes in the following colors: "]
+    },
+    {"tag": "markings",
+      "patterns":  ["What markings do Azawakhs have?", "Which markings are found on Beagles?", "What markings do?"],
+       "responses": ["Mlem! The breed has the following markings: "]
+    },
+    {"tag": "summary",
+      "patterns":  ["Tell me about Mastiffs.", "Give me a summary on Komondors.", "What are pitbulls like?"],
+       "responses": ["*wags tail* Here is a summary on the breed: "]
+    },
+    {"tag": "health",
+      "patterns":  ["Tell me about the health of Otterhounds", "What are Leonbergers health like?", "healthy", "Do Keeshonds have health problems?"],
+       "responses": ["Here is some information on the health of the breed: "]
+    },
+    {"tag": "grooming",
+      "patterns":  ["How do I groom Pomeranians?", "Do Samoyeds shed a lot?", "What is the grooming process for Hounds?"],
+       "responses": ["Bark! Here is some information on how to properly groom a breed: "]
+    },
+    {"tag": "exercise",
+      "patterns":  ["How often do Rat Terriers exercise?", "Do pugs exercise a lot?", "How often do I have to walk Lowchens?"],
+       "responses": ["Pant pant pant... Here is some information on the exercise habits of the breed: "]
+    },
+    {"tag": "training",
+      "patterns":  ["How do I train a Broholmer?", "What is the best way to train a Dachshund?", "train"],
+       "responses": ["Sit! Stay! Here is some information on training the breed: "]
+    },
+    {"tag": "nutrition",
+      "patterns":  ["Tell me about the nutrition of Otterhounds", "What food should I feed my Briard?", "What is the diet of a Jindo?", "What can Pinschers eat?", "What food does a corgi eat?"],
+       "responses": ["Here is some information on how to feed a breed: "]
+    },
+    {"tag": "goodbye",
+    "patterns":  ["goodbye", "bye", "bye bye", "so long", "cya"],
+     "responses": ["*Puppy eyes* Goodbye", "Bye Bye", "*sticks out tongue", "Until next time!"]
+    }
+  ]}

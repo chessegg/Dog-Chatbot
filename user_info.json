@@ -1,0 +1,109 @@
+{
+    "Craig": {
+        "favorites": [
+            "Cardigan Welsh Corgi",
+            "Bulldog"
+        ],
+        "breeds_searched": [
+            "Hamiltonstovare",
+            "American Bulldog",
+            "Golden Retriever",
+            "Cardigan Welsh Corgi",
+            "Bulldog",
+            "Bulldog",
+            "Afghan Hound"
+        ],
+        "tricks_learned": [
+            "Roll over!",
+            "Sit!",
+            "High Five!"
+        ]
+    },
+    "Kevin": {
+        "favorites": [
+            "Siberian Husky"
+        ],
+        "breeds_searched": [
+            "Shiba Inu",
+            "Siberian Husky",
+            "Rottweiler",
+            "Airedale Terrier",
+            "Cardigan Welsh Corgi"
+        ],
+        "tricks_learned": [
+            "Shake!",
+            "Dance!",
+            "Roll over!"
+        ]
+    },
+    "Lychee": {
+        "favorites": [
+            "American Bulldog"
+        ],
+        "breeds_searched": [
+            "American Bulldog",
+            "Bulldog",
+            "Affenpinscher"
+        ],
+        "tricks_learned": [
+            "Heel!",
+            "Stay!"
+        ]
+    },
+    "chessegg": {
+        "favorites": [
+            "Cardigan Welsh Corgi"
+        ],
+        "breeds_searched": [
+            "Cardigan Welsh Corgi",
+            "Greyhound",
+            "Great Dane"
+        ],
+        "tricks_learned": [
+            "Heel!",
+            "Shake!"
+        ]
+    },
+    "roachelley": {
+        "favorites": [
+            "Chesapeake Bay Retriever"
+        ],
+        "breeds_searched": [
+            "Chesapeake Bay Retriever"
+        ],
+        "tricks_learned": [
+            "Dance!"
+        ]
+    },
+    "user": {
+        "favorites": [
+            "Cardigan Welsh Corgi"
+        ],
+        "breeds_searched": [
+            "Dachshund",
+            "Cardigan Welsh Corgi",
+            "Golden Retriever"
+        ],
+        "tricks_learned": [
+            "Heel!",
+            "Dance!",
+            "High Five!"
+        ]
+    },
+    "Groot": {
+        "favorites": [
+            "Chihuahua",
+            "Pug",
+            "Cardigan Welsh Corgi"
+        ],
+        "breeds_searched": [
+            "Collie",
+            "Chihuahua",
+            "Pug",
+            "Cardigan Welsh Corgi"
+        ],
+        "tricks_learned": [
+            "Heel!"
+        ]
+    }
+}
