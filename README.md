@@ -33,7 +33,7 @@ response (such as when the user asks about a fact). When there are multiple resp
 
 ## Sample Dialogs
 There is some excess printing going on in between the user input and chatbot response… this is due to the model.predict() method printing some extra info,
-I couldn’t figure out how to get rid of it so please just ignore this :)
+I couldn’t figure out how to get rid of it so please just ignore this :) This is a #TODO for me
 
 ![image](https://user-images.githubusercontent.com/43458707/166195512-4908fd09-11bb-45e4-a57a-17e2a8effce0.png)
 
